@@ -141,6 +141,8 @@ When he got home, he told his children what had happened.
 Beauty"s sisters suddenly became angry at her.
 "Beauty, what have you done?" they shouted. 
 "It"s your fault. You wanted toe rose, and now Father must die.You stupid girl!" 
+
+##11 IwillGO
 "Father, I"ll go to the Beast. I"m not afraid. 
 I will go and live with the Beast," Beauty said quietly.
 "No, Beauty, no."
@@ -157,7 +159,7 @@ They will only spend it on new dresses."
 My sisters are goingto marry them, so they will have to buy many things.
 They need that money.
 
-##11 daughterToCastle
+##12 daughterToCastle
 "The next morning, Beauty said goodbye to her family and left for the castle.
 She was very sad, but she did not cry. 
 Late in the evening, she finally arrived at the Beast"s castle.
@@ -178,7 +180,7 @@ There was a sign on the door. It read "Beauty"s Room."
 Beauty opened the door and went inside. 
 It was most beautiful room she had ever seen,.
 
-##12 kindLetter
+##13 kindLetter
 It was full of floiwers, books, and beautiful clothes.
 She picked up one book and opened it.
 Inside, there was a note. It read:
@@ -195,7 +197,7 @@ Beauty put on the most beautiful dress and went to the dining room.
 All of her favorite foods were on the table.
 Beauty sat down. 
 
-##13 meetBeast
+##14 meetBeast
 Suddenly, sheheard a gentle growl, and the Beast came in.
 He was wearing fine clothes, but he had as much hair as a lion.
 Beauty said, "Thank you for my present, sir."
@@ -209,7 +211,7 @@ That evening, Beauty and the Beast had dinner together.
 They talked about many topics. 
 By the end of the dinner, Beauty thought that the Beast was not so frightening.
 
-##14 marryMe
+##15 marryMe
 The next day, Beauty went downstairs. There, she saw the Beast waiting for her.
 "There is a mirror in your bedroom," the Beast said.
 "It is a magic mirror." When you want to see your father, look into that mirror."
@@ -230,7 +232,7 @@ For three months, Beauty lived at the castle.
 She was happy there. 
 She read books and walked through the garden every day. 
 
-##15 sickFather
+##16 sickFather
 But, one day, she looked into the magic mirror.
 She saw her father. He was sick in bed and was all by himself.
 "I must go and see my father.
@@ -243,7 +245,7 @@ I will stay here with you, but there is a problem.
 I looked into the magic mirrorand saw my father.
 He is sick in bed and all by himself. Will you please let me go to visit him?"
 
-##16 promiseComeback
+##17 promiseComeback
 "If you leave, you will not come back,"the Beast said.
 "I promise to come back," said Beauty. 
 But let me go there for one week."
@@ -256,7 +258,7 @@ You"ll wake up in this castle."
 "Goodbye, Beauty. Don"t forget your promise. Come back in seven days."
 Beauty thanked the Beast. She put the ring on and went to sleep.
 
-##17 backToFather 
+##18 backToFather 
 In the morning, when she woke up, she was in her father"s home.
 She got up and ran to her father.
 "Father, I"m home," she said.
@@ -269,7 +271,7 @@ Beauty"s father looked at her. "You look beautiful," he said.
 "Yes, he is very kind to me. I like him very much.
 Perhaps I almost love him," Beauty said.
 
-##18 badSisters
+##19 badSisters
 Her older sisters heard that Beauty was back. 
 They came to visit her with their husbands. Both sisters were unhappy.
 One had a very handsome husband, but he was unkind. 
@@ -284,7 +286,7 @@ Please stay here for a few more days."
 Beauty disliked seeing them sad. 
 Sp a week passed, but Beauty did not to back to the castle.
 
-##19 inDream
+##20 inDream
 Then, one night, Beauty had a dream.
 In her dream, she saw the Beast.
 The Beast was lying on the grass.
@@ -295,7 +297,7 @@ Beauty woke up and jumped out of bed. It was the middle of the night.
 She removed the ring quickly and put it beside her bed.
 Then, she went back to sleep.
 
-##20 backToCastle
+##21 backToCastle
 Beauty woke up in the castle. She jumped up and went looking for the Beast. 
 She tried every room in the castle, but she could not find the Beast anywhere.
 Then, she remembered her dream. She ran into the garden and saw the Beast.
@@ -308,7 +310,7 @@ Now it is too late. I"m going to die soon."
 "I love you, Beast. Please don"t die. I want to marry you." 
 
 
-##21 brokeSpell
+##22 brokeSpell
 Beauty kissed his ugly face.
 At that moment, something magical happened. 
 The sky was filled with bright light. 
@@ -325,7 +327,7 @@ Sje turned me into a beast.
 She cursed me to be a beast forever until someone loved me.
 You broke the spell, Beauty. 
 
-##22 loveAndMarry
+##23 loveAndMarry
 I became a man again becase you love me."
 Then, the fairy suddenly appeared and said, "Yes, Beauty, you understand that kindness is more important
 than looks. Your sisters don"t understand that.
