@@ -2,6 +2,22 @@
 
 ##Beauty_ Job00_ 00_ index_ 20230914
 
+
+
+background, goingDown, makeEveryoneHappy, letterAndRose, checkingShip,
+lostInForest, findCastle, ,roseAndBeast, angryBeast, backHome, IwillGoToCastle
+daughterToCastle, kindLetter, meetBeast, marryMe, sickFather, promiseComeback,
+backToFather, badSisters, inDream, backToCastle, brokespell, loveAndMarry.
+
+
+background goingDown makeEveryoneHappy letterAndRose checkingShip
+lostInForest findCastle roseAndBeast angryBeast backHome IwillGoToCastle
+daughterToCastle kindLetter meetBeast marryMe sickFather promiseComeback
+backToFather badSisters inDream backToCastle brokespell loveAndMarry
+
+
+
+
 ##1 background
 ##2 goingDown
 ##3 makeEveryoneHappy
