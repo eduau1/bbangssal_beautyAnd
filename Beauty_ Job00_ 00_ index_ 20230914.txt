@@ -7,13 +7,13 @@
 background, goingDown, makeEveryoneHappy, letterAndRose, checkingShip,
 lostInForest, findCastle, ,roseAndBeast, angryBeast, backHome, IwillGoToCastle
 daughterToCastle, kindLetter, meetBeast, marryMe, sickFather, promiseComeback,
-backToFather, badSisters, inDream, backToCastle, brokespell, loveAndMarry.
+backToFather, badSisters, inDream, backToCastle, brokeSpell, loveAndMarry.
 
 
 background goingDown makeEveryoneHappy letterAndRose checkingShip
 lostInForest findCastle roseAndBeast angryBeast backHome IwillGoToCastle
 daughterToCastle kindLetter meetBeast marryMe sickFather promiseComeback
-backToFather badSisters inDream backToCastle brokespell loveAndMarry
+backToFather badSisters inDream backToCastle brokeSpell loveAndMarry
 
 
 
